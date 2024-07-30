@@ -1,0 +1,11 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 2C12-72A4
+
+ Directory of d:\WORK\PYTHON\Projects\NOVA_AI\notebooks
+
+30-07-2024  12:40    <DIR>          .
+30-07-2024  12:28    <DIR>          ..
+30-07-2024  12:39             2,041 experiments.ipynb
+30-07-2024  12:40    <DIR>          outputs
+               1 File(s)          2,041 bytes
+               3 Dir(s)  909,407,084,544 bytes free

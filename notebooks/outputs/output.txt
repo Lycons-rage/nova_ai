@@ -5,7 +5,7 @@
 
 30-07-2024  12:40    <DIR>          .
 30-07-2024  12:57    <DIR>          ..
-30-07-2024  17:41             9,565 experiments.ipynb
+11-08-2024  21:24            12,629 experiments.ipynb
 30-07-2024  12:40    <DIR>          outputs
-               1 File(s)          9,565 bytes
-               3 Dir(s)  909,407,006,720 bytes free
+               1 File(s)         12,629 bytes
+               3 Dir(s)  909,292,494,848 bytes free
